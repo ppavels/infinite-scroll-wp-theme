@@ -1,0 +1,1 @@
+<?php $term_list = wp_get_post_terms($post->ID, 'category', array("fields" => "all")); /*print_r($term_list);?>

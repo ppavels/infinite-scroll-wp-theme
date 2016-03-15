@@ -1,0 +1,96 @@
+.category_info_author {
+width:700px;
+height:380px;
+background-color:#fff;
+margin-bottom:15px;
+padding-right:10px;
+}
+
+#top_slide_one {
+width:300px;
+position:absolute;
+clear:both;
+margin-top:40px;
+margin-left:740px;
+}
+
+#meet_the {
+height:80px;
+width:510px;
+background:url(../images/meet_the.png) no-repeat center;
+margin:50px 0 30px 50px;
+}
+
+#seo_description_category_info_author {
+width:710px;
+height:125px;
+font-family:'PT Sans Caption', sans-serif, normal;
+font-weight:400;
+font-size:12px;
+line-height:180%;
+color:#6d6d6d;
+}
+
+#author_photo {
+margin-left:40px;
+margin-right:40px;
+width:200px;
+height:200px;
+float:left;
+}
+
+#fav_brands {
+margin-top:40px;
+}
+
+#red_brand {
+border-radius:5px 5px 5px 5px;
+background-color:#c6321e;
+color:#fff;
+font-family:'PT Sans Caption', sans-serif, normal;
+font-weight:700;
+font-size:12px;
+margin-right:10px;
+text-decoration:none;
+padding:2px 10px;
+}
+
+#yello_brand {
+border-radius:5px 5px 5px 5px;
+background-color:#a6c614;
+color:#fff;
+font-family:'PT Sans Caption', sans-serif, normal;
+font-weight:700;
+font-size:12px;
+margin-right:10px;
+text-decoration:none;
+padding:2px 10px;
+}
+
+#blue_brand {
+border-radius:5px 5px 5px 5px;
+background-color:#30ced5;
+color:#fff;
+font-family:'PT Sans Caption', sans-serif, normal;
+font-weight:700;
+font-size:12px;
+margin-right:10px;
+text-decoration:none;
+padding:2px 10px;
+}
+
+#pink_brand {
+border-radius:5px 5px 5px 5px;
+background-color:#27c190;
+color:#fff;
+font-family:'PT Sans Caption', sans-serif, normal;
+font-weight:700;
+font-size:12px;
+margin-right:10px;
+text-decoration:none;
+padding:2px 10px;
+}
+
+#contests .item {
+margin-bottom:10px;
+}

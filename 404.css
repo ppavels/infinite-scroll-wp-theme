@@ -1,0 +1,24 @@
+
+body {
+	background: url(images/bg.jpg) no-repeat center top;
+	height: 750px;
+	text-align: center;
+	padding: 90px 0 0;
+	font-family: 'Lobster', cursive;
+}
+h1 {
+	font-size: 74px;
+	margin: 0 0 28px;
+	font-weight: #464646;
+}
+.btn-back {
+	width: 282px;
+	height: 77px;
+	display: block;
+	background: url(images/btn-back.gif) no-repeat top;
+	text-indent: -9000px;
+	margin: 0 auto;
+}
+.btn-back:hover {
+	background-position: bottom;
+}

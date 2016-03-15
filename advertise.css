@@ -1,0 +1,146 @@
+/*advertise*/
+#ad-form{
+	width:687px;
+	padding-left:10px;
+	margin-bottom:20px;
+	
+}
+#ad-form p{
+	font-family: 'Conv_WhitneyBook';
+	font-size:16px;
+	line-height:20px;
+	margin-bottom:10px;
+	
+}
+.adform-text{
+	margin-bottom:40px;
+	width:656px;
+}
+.form-ad{
+	
+	overflow:hidden;
+}
+.form-ad input[type=text],input[type=tel],input[type=email]{
+	width:270px;
+	height:44px;
+	padding:0px 0px 0px 20px;
+	border:#aee0f5 5px solid;
+	border-radius:5px;
+	font-family: 'Conv_WhitneyBook';
+	font-size:16px;
+	color:#383838;
+	margin-right:36px;
+	margin-bottom:30px;
+	float:left;	
+}
+.ad-form-field,.input-field,.ad-field{
+	width:270px;
+	height:44px;
+	padding:0px 0px 0px 20px;
+	border:#aee0f5 5px solid;
+	border-radius:5px;
+	font-size:16px;
+	color:#383838;
+	margin-right:36px;
+	margin-bottom:30px;
+	float:left;	
+}
+.input-field{
+	width:298px;
+	height:54px;
+	border:0;
+}
+.ad-field{
+	margin-top:10px;
+}
+.ad-form-focus{
+	border-color:#ffd02e !important;
+}
+.text-area-sbmt{
+	width:606px !important;
+	border:#aee0f5 5px solid;
+	border-radius:5px;
+	resize:none;
+	font-size:16px;
+	color:#383838;
+	height:200px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding:15px 0px 0px 20px;
+	margin-bottom:35px;
+}
+
+.submit-btn-sf {
+	width:166px;
+	height:53px;
+	background:url(images/submit-btn-sf.png) no-repeat;
+	display:block;
+	border:none;
+	text-indent:-9000px;
+	cursor:pointer;
+	
+}
+
+.last-text-field {
+	margin-bottom:46px;
+}
+
+.ad-form-check {
+	float:none !important;
+	
+}
+
+.check-box {
+}
+
+.check-box p {
+	width:187px;	
+	float:left;
+	margin-bottom:30px;	
+}
+
+.last-c-box {
+	width:250px !important;
+}
+
+.form-ad span{
+	border:#aee0f5 5px solid !important;
+	border-radius:5px;
+	display: inline-block;
+	float:left;
+	margin-right:36px;
+	
+
+}
+
+select.input-field {
+    height: inherit;
+    margin: 0;
+    padding: 11px 5px 11px 15px;
+    width: 290px;
+}
+.check-box input[type='checkbox'] {
+    opacity: 0;
+    float: left;
+    width: 43px;
+	height:44px;
+	border:1px solid #000;
+	
+}
+.check-box input[type='checkbox'] + label {
+    margin: 0 0 0 -53px;
+    clear: none;
+    padding: 12px 0 12px 55px;
+    cursor: pointer;
+    background: url(images/off.png) left center no-repeat; 
+}
+.check-box input[type='checkbox']:checked + label {
+    background-image: url(images/check.png);
+}
+
+
+#ad-form h1 {
+    color: #383838;
+    font-family: 'Conv_WhitneyBold';
+    font-size: 30px;
+    margin-bottom: 30px;
+}

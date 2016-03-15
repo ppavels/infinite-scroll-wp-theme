@@ -1,0 +1,1 @@
+<?php include ('custom_rss.php') ?>
